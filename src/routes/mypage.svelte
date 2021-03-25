@@ -1,3 +1,9 @@
+<svelte:head>
+	<title>My Demo Page</title>
+	<meta name="title" content="Demo App" />
+	<meta name="description" content="A todo app with localstorage data saving." />
+</svelte:head>
+
 <script>
     import TailwindCss from '$lib/TailwindCSS.svelte';
 </script>
